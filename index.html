@@ -264,8 +264,8 @@ Everyone on our staff has experience working with children with exceptionalities
 
         <!--Grid column-->
         <div class="col-md-8 col-xl-9">
-            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
-
+            <form id ="contact-form" name="contact-form" action="mail.php" method="POST"  onsubmit="return validateForm()" >
+				
                 <!--Grid row-->
                 <div class="row">
 
@@ -321,7 +321,7 @@ Everyone on our staff has experience working with children with exceptionalities
 			<div class="g-recaptcha" data-sitekey="6LcXZFgUAAAAAOw_KYMS8nR7IDdQMWnKwELNabcJ"></div>
 
             <div class="center-on-small-only">
-                <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+                <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();validateForm()">Send</a>
             </div>
             <div class="status"></div>
         </div>
@@ -376,7 +376,6 @@ Everyone on our staff has experience working with children with exceptionalities
     <script type="text/javascript" src="js/popper.min.js"></script>
 	   <script type="text/javascript" src="js/bootstrap.js"></script>
   <script src="js/bootstrap-4.0.0.js"></script>
-	  <script type="text/javascript" src="js/mdb.js"></script>
 	      <!--Custom scripts-->
     <script>
 
