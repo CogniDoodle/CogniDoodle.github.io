@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700|Montserrat:400,700,900" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+<link href="../css/bootstrap-4.0.0.css" rel="stylesheet" type="text/css">
+<link href="../css/static.css" rel="stylesheet" type="text/css">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<script src="../js/modernizr.js"></script>
+<script src="../js/jquery-2.1.1.js"></script>
+<script src="../js/main.js"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128209737-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128209737-1');
+</script>
+
+<title>CogniDoodle LLC Children Learning Through Art</title>
+</head>
+<body>
+<header class="cd-header"> <a href="../index.html">
+  <div id="cd-logo"></div>
+  </a>
+  <nav class="cd-primary-nav">
+    <ul>
+      <li><a href="../index.html#mission" target="_self">Mission</a></li>
+      <li><a href="../about.html" target="_parent">About</a></li>
+      <li><a href="../classes.html" target="_self">Classes</a></li>
+    </ul>
+  </nav>
+  <!-- cd-primary-nav --> 
+</header>
+<!-- TemplateBeginEditable name="EditRegion2" -->EditRegion2
+	
+<div id="cd-intro" class="intro">
+  <div id="cd-intro-tagline">
+    <h1>Learning through art.</h1>
+    <a href="#" class="cd-btn">Enroll Now</a> </div>
+</div><!-- TemplateEndEditable -->
+<!-- #cd-intro -->
+<div class="cd-secondary-nav"> <a href="#0" class="cd-secondary-nav-trigger">Menu<span></span></a> <!-- button visible on small devices -->
+  <nav>
+    <ul>
+      <li> <a href="../index.html#mission"  target="_self"> <b>Mission</b> <img src="../img/icon-mission.svg" alt="cognidoodle mission icon" height="30"><!-- icon --> 
+        </a> </li>
+      <li> <a href="../about.html"  target="_self"> <b>About</b><img src="../img/icon-info.svg" alt="cognidoodle about us icon" height="30"/><!-- icon --> 
+        </a> </li>
+      <li> <a href="../index.html"  target="_self"> <b>Classes</b> <img src="../img/icon-calendar.svg" alt="cognidoodle calendar icon" height="30"/><!-- icon --> 
+        </a> </li>
+      <li> <a href="../index.html#gallery"  target="_self"> <b>Gallery</b> <img src="../img/icon-gallery.svg" alt="cognidoodle gallery icon" height="30"/><!-- icon --> 
+        </a> </li>
+      <li> <a href="../index.html#contact"  target="_self"> <b>Contact</b> <img src="../img/icon-contact.svg" alt="cognidoodle contact icon" height="30"><!-- icon --> 
+        </a> </li>
+    </ul>
+  </nav>
+</div>
+<!-- .cd-secondary-nav --><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-6 social-links">
+        <h4>Find us on social media</h4>
+          <div class="socail-icons"><h2><a href="https://facebook.com/cognidoodle/" target="_blank"><i class="fab fa-facebook-square"></i></a>
+		  <a href="https://www.instagram.com/cognidoodle/" target="_blank"><i class="fab fa-instagram"></i></a></h2></div>
+      </div>
+      <div class="footer__signup col-xs-12 col-md-6 text-center">
+        <h4>Keep in touch</h4>
+        <p> </p>
+        <p><a class="footer-btn" href="../index.html#contact">Contact us</a></p>
+      </div>
+    </div><hr>
+    <div class="row text-center">
+      <div class="footer_logo col-xs-12 col-sm-12 col-md-4"> <img src="../img/cd-logo.svg" alt="CogniDoodle Logo"/> </div>
+      <div class="footer_copyright col-xs-12 col-md-4"> <small>CogniDoodle - Learning Through Art</small><br> <small>© 2018 CogniDoodle LLC</small><br><small>Created by Laurelle Panchoo with love.</small> </div>
+      <div class="footer_additional col-xs-12 col-sm-4">
+        <a href="#">Back to top <i class="fas fa-angle-double-up"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/jquery-3.2.1.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/popper.min.js"></script> 
+<script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/bootstrap-4.0.0.js"></script>
+</body>
+</html>
