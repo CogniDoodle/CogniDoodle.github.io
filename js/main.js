@@ -50,14 +50,14 @@ jQuery(document).ready(function($){
 
 	//on mobile - open/close secondary navigation clicking/tapping the .cd-secondary-nav-trigger
 	$('.cd-secondary-nav-trigger').on('click', function(event){
-		event.preventDefault();
+		
 		$(this).toggleClass('menu-is-open');
 		secondaryNav.find('ul').toggleClass('is-visible');
 	});
 
 	//smooth scrolling when clicking on the secondary navigation items
 	secondaryNav.find('ul a').on('click', function(event){
-        event.preventDefault();
+        
         var target= $(this.hash);
         $('body,html').animate({
         	'scrollTop': target.offset().top - secondaryNav.height() + 1
