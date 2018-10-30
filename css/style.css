@@ -8,8 +8,8 @@ Primary style
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
 body {
-    font-size: 100%;
     color: #030d18;
     margin-left: 0px;
     margin-top: 0px;
@@ -28,6 +28,7 @@ a:hover {
 img {
     max-width: 100%;
 }
+
 
 
 @media only screen and (min-width: 1170px) {
@@ -245,10 +246,6 @@ Intro
     font-size: 2rem;
 }
 
-.what-is .row  {
-    padding-left: 2rem;
-    padding-right: 2rem;
-}
 
 }
 
@@ -554,6 +551,11 @@ Secondary Fixed Navigation
     -o-transform: rotate(225deg);
     transform: rotate(225deg);
 }
+.what-is-col-text p {
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
 
 @media only screen and (min-width: 1170px) {
 .cd-secondary-nav-trigger {
@@ -569,5 +571,15 @@ Secondary Fixed Navigation
 }
 }
 
-@media only screen and (min-width: 1170px) {
+
+
+@media only screen and (min-width:992px){
+#what-is .row {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.what-is-image {
+    height: 400px;
+	width: 485px;
+}
 }

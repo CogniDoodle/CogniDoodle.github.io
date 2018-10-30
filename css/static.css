@@ -1,9 +1,10 @@
 @charset "utf-8";
-h1, h2, h3, h4 {
+h1, h2, h3, h4 , h5{
     font-family: montserrat;
     font-style: normal;
     font-weight: 700;
     text-align: center;
+    padding-bottom: 0.5rem;
 }
 .container-fluid.full-width {
     padding-left: 0;
@@ -19,8 +20,10 @@ h1, h2, h3, h4 {
 .img-full-width {
     width: 100.5%;
     height: auto;
-    /* [disabled]padding-top: 0px;
-*/
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 .has-inner .row.row-no-gutter {
     margin-left: -10px;
@@ -54,14 +57,6 @@ h1, h2, h3, h4 {
     padding-bottom: 4rem;
     background-color: #8EDF43;
 }
-section {
-    background-color: #EC008C;
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-attachment: scroll;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
 #services img {
     max-height: 100px;
     margin-bottom: 2rem;
@@ -88,10 +83,25 @@ img.kids {
 .category3 {
     background-color: #FBA919;
 }
+section {
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: scroll;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#what-is {
+    background-color: #8EDF43;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 #gallery {
     background-color: #FBA919;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 #gallery img {
     width: 100%;
@@ -106,16 +116,6 @@ img.kids {
 #contact-form {
     padding-top: 3rem;
     padding-left: 0px;
-}
-#contact p {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    color: #2F4858;
-    font-family: comfortaa;
-    font-size: 1rem;
-}
-#contact img {
-    width: 90%;
 }
 .btn-categories {
     border: medium solid #000;
@@ -135,6 +135,16 @@ img.kids {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     width: 95%;
     background-color: #FFFFFF;
+}
+#contact p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #2F4858;
+    font-family: comfortaa;
+    font-size: 1rem;
+}
+#contact img {
+    width: 90%;
 }
 .page-btn {
     display: inline-block;
@@ -193,6 +203,11 @@ footer {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+.social-links a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .footer_copyright {
     /* [disabled]vertical-align: middle;
 */
@@ -208,10 +223,28 @@ footer {
 .social-links {
     text-align: center;
 }
-.social-links a {
-    margin-left: 10px;
-    margin-right: 10px;
-}
 .contact-list {
     text-align: left;
+}
+p {
+    font-size: 1.25em;
+}
+#what-is img {
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+.what-is-col {
+
+}
+#why-we-do-it {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+#people-behind {
+    background-color: #FBA919;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
