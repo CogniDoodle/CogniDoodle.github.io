@@ -211,6 +211,15 @@ Intro
     background-size: cover;
     background-position: 50% 0%;
 }
+/* -------------------------------- 
+
+Intro
+
+-------------------------------- */
+#class-intro {
+    background-image: url(../img/brushes.jpg);
+    background-size: cover;
+}
 #about-intro {
     background-image: url(../img/about-intro.jpg);
     background-size: cover;
@@ -569,6 +578,9 @@ Secondary Fixed Navigation
     font-size: 32px;
     font-size: 3rem;
 }
+.what-is-img  {
+    max-width: 500px;
+	}
 }
 
 

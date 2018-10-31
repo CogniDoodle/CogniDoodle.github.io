@@ -229,12 +229,13 @@ footer {
 p {
     font-size: 1.25em;
 }
-#what-is img {
-    padding-left: 0px;
-    padding-right: 0px;
+
+
 
 }
+
 .what-is-col {
+    text-align: center;
 
 }
 #why-we-do-it {

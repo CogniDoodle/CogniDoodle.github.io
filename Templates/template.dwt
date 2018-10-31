@@ -30,9 +30,9 @@
   </a>
   <nav class="cd-primary-nav">
     <ul>
-      <li><a href="../index.html#mission" target="_self">Mission</a></li>
-      <li><a href="../about.html" target="_parent">About</a></li>
-      <li><a href="../classes.html" target="_self">Classes</a></li>
+      <li><a href="../index.html#mission">Mission</a></li>
+      <li><a href="../about.html">About</a></li>
+      <li><a href="../classes.html">Classes</a></li>
     </ul>
   </nav>
   <!-- cd-primary-nav --> 
@@ -52,7 +52,7 @@
         </a> </li>
       <li> <a href="..//about.html"  target="_self"><span><i class="fas fa-info-circle"></i></span> <b>About</b>
         </a> </li>
-      <li> <a href="..//index.html"  target="_self"><span><i class="fas fa-calendar-alt"></i></span> <b>Classes</b> 
+      <li> <a href="..//classes.html"  target="_self"><span><i class="fas fa-calendar-alt"></i></span> <b>Classes</b> 
         </a> </li>
       <li> <a href="..//index.html#gallery"  target="_self"><span><i class="fas fa-images"></i></span> <b>Gallery</b>
         </a> </li>
