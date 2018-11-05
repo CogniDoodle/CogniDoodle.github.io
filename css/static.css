@@ -255,5 +255,6 @@ p {
     height: auto;
 }
 #banner {
-    display: inline;
+    max-height: 201px;
+    display: block;
 }
