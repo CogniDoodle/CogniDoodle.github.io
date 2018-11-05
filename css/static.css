@@ -249,3 +249,11 @@ p {
     padding-top: 4rem;
     padding-bottom: 4rem;
 }
+#banner img {
+    width: 100%;
+    background-size: cover;
+    height: auto;
+}
+#banner {
+    display: inline;
+}
