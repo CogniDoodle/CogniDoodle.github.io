@@ -93,8 +93,8 @@ img.kids {
     background-color: #FBA919;
 }
 section {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 #what-is {
     background-color: #8EDF43;
@@ -167,6 +167,7 @@ section {
     font-weight: 700;
     z-index: 5;
     font-family: montserrat;
+    margin-bottom: 1em;
 }
 .no-touch .page-btn:hover {
     background-color: #EC008C;
@@ -245,6 +246,10 @@ p {
     text-align: center;
 
 }
+.what-is-col-text {
+    margin-top: 3em;
+}
+
 #why-we-do-it {
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -263,4 +268,10 @@ p {
 }
 .cat {
     height: 7.5rem;
+}
+
+@media screen and (max-width: 767.98px) {
+  .cat {
+    height:auto;
+  }
 }
