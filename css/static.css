@@ -5,6 +5,7 @@ h1, h2, h3, h4 , h5{
     font-weight: 700;
     text-align: center;
     padding-bottom: 0.5rem;
+    padding-top: 1rem;
 }
 .container-fluid.full-width {
     padding-left: 0;
@@ -29,6 +30,11 @@ h1, h2, h3, h4 , h5{
     margin-left: -10px;
     margin-right: -10px;
 }
+#our-values .row.row-no-gutter {
+    height: auto;
+}
+
+
 .row.row-no-gutter .inner {
     padding-left: 10px;
     padding-right: 10px;
@@ -40,7 +46,7 @@ h1, h2, h3, h4 , h5{
     padding-bottom: 0px !important;
 }
 #mission {
-    padding-top: 4rem;
+    padding-top: 1rem;
     background-color: rgba(233,236,239,1.00);
     padding-left: 0px;
     padding-right: 0px;
@@ -49,12 +55,14 @@ h1, h2, h3, h4 , h5{
     margin-bottom: 20px;
     height: auto;
     width: 400px;
+    padding-top: 0px;
+    margin-top: 20px;
 }
 #services {
     padding-left: 0px;
     padding-right: 0px;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     background-color: #8EDF43;
 }
 #services img {
@@ -73,6 +81,7 @@ img.kids {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     margin-bottom: 10px;
+    height: 96%;
 }
 .category1 {
     background-color: #EC008C;
@@ -84,24 +93,21 @@ img.kids {
     background-color: #FBA919;
 }
 section {
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-attachment: scroll;
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
 #what-is {
     background-color: #8EDF43;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     padding-left: 0px;
     padding-right: 0px;
 }
 
 #gallery {
     background-color: #FBA919;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 #gallery img {
     width: 100%;
@@ -109,7 +115,7 @@ section {
 }
 #contact {
     background-color: #FFFFFF;
-    padding-top: 2rem;
+    padding-top: 1rem;
     padding-left: 2rem;
     padding-right: 2rem;
 }
@@ -135,6 +141,7 @@ section {
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     width: 95%;
     background-color: #FFFFFF;
+    left: 0px;
 }
 #contact p {
     padding-top: 1rem;
@@ -239,22 +246,21 @@ p {
 
 }
 #why-we-do-it {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     padding-left: 2rem;
     padding-right: 2rem;
 }
 #people-behind {
     background-color: #FBA919;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 #banner img {
     width: 100%;
     background-size: cover;
     height: auto;
 }
-#banner {
-    max-height: 201px;
-    display: block;
+.cat {
+    height: 7.5rem;
 }
