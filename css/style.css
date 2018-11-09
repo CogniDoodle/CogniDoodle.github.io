@@ -242,8 +242,6 @@ Intro
     top: 50vh;
 }
 .intro h1 {
-    font-size: 24px;
-    font-size: 2rem;
     color: #FFFFFF;
     text-shadow: 0px 3px 4px rgba(0,0,0,0.69);
     font-family: montserrat;
@@ -257,11 +255,6 @@ Intro
 #cd-intro-tagline {
     padding-top: 242px;
     position: static;
-}
-
-.intro h1 {
-    font-size: 32px;
-    font-size: 2rem;
 }
 
 
