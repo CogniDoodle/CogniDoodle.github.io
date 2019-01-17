@@ -125,9 +125,9 @@ section {
     padding-left: 0px;
 }
 .btn-categories {
-    border: medium solid #000;
+    border: thin solid #000;
     display: inline-block;
-    font-weight: 700;
+    font-weight: 900;
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
@@ -137,11 +137,10 @@ section {
     user-select: none;
     padding: 0.8em 1.2em;
     border-radius: 20em;
-    font-size: 0.85rem;
+    font-size: 1rem;
     line-height: 1.5;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
     width: 95%;
-    background-color: #FFFFFF;
     left: 0px;
 }
 #contact p {
