@@ -6,10 +6,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700|Montserrat:400,700,900" rel="stylesheet">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-<link href="../css/bootstrap-4.0.0.css" rel="stylesheet" type="text/css">
 <link href="../css/static.css" rel="stylesheet" type="text/css">
 <link href="../css/style.css" rel="stylesheet" type="text/css">
 <script src="../js/modernizr.js"></script>
+<!-- <link href="../css/bootstrap-4.0.0.css" rel="stylesheet" type="text/css"> -->
+<link href="../css/bootstrap-4.2.1.css" rel="stylesheet" type="text/css">
 <script src="../js/jquery-2.1.1.js"></script>
 <script src="../js/main.js"></script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -77,12 +78,12 @@
       </div>
       <div class="col-xs-12 col-md-4 text-center">
         <h4>Join our team</h4>
-        <medium>If you are interested in working with us or volunteer opportunities don't hesitate to call or <a href="mailto:info@cognidoodle.com" target="new">email us</a>.  We don't bite!</medium>
+        <medium>If you are interested in working with us or in volunteer opportunities don't hesitate to call or <a href="mailto:info@cognidoodle.com" target="new">email us</a>.  We don't bite!</medium>
       </div>
     </div><hr>
     <div class="row text-center">
       <div class="footer_logo col-xs-12 col-sm-12 col-md-4"> <img src="../img/cd-logo.svg" alt="CogniDoodle Logo"/> </div>
-      <div class="footer_copyright col-xs-12 col-md-4"> <small>CogniDoodle - Learning Through Art</small><br> <small>© 2018 CogniDoodle LLC</small><br><small>Created by Laurelle Panchoo with love.</small> </div>
+      <div class="footer_copyright col-xs-12 col-md-4"> <small>CogniDoodle - Learning Through Art</small><br> <small>© 2020 CogniDoodle LLC</small><br><small>Created by Laurelle Panchoo with love.</small> </div>
       <div class="footer_additional col-xs-12 col-sm-4">
         <a href="#">Back to top <i class="fas fa-angle-double-up"></i></a>
       </div>
@@ -92,7 +93,8 @@
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 <script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/jquery-3.2.1.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
-<script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/popper.min.js"></script> 
-<script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/bootstrap-4.0.0.js"></script>
+<script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/popper.min.js"></script>
+<!-- <script src="file:///C|/Users/pan89/OneDrive/Documents/cognid-doodle-site/js/bootstrap-4.0.0.js"></script> -->
+<script src="../js/bootstrap-4.2.1.js"></script>
 </body>
 </html>
