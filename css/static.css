@@ -46,10 +46,10 @@ h1, h2, h3, h4 , h5{
     padding-bottom: 0px !important;
 }
 #mission {
-    padding-top: 1rem;
-    background-color: rgba(233,236,239,1.00);
-    padding-left: 0px;
-    padding-right: 0px;
+	padding-top: 1rem;
+	background-color: #FBFCFC;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 #mission img.logo {
     margin-bottom: 20px;
@@ -62,8 +62,7 @@ h1, h2, h3, h4 , h5{
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: #8EDF43;
+    background-color: #FFFFFF;
 }
 #services img {
     max-height: 100px;
@@ -78,23 +77,20 @@ img.kids {
 .category {
     padding-bottom: 2rem;
     padding-top: 2rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    margin-bottom: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
     height: 96%;
 }
 .category1 {
     background-color: #EC008C;
 }
 .category2 {
-    background-color: #A500EC;
+	background-color: #FBA919;
 }
 .category3 {
-    background-color: #FBA919;
+	background-color: #F26524;
 }
-section {
 
-}
 #what-is {
     background-color: #8EDF43;
     padding-top: 1rem;
@@ -107,6 +103,7 @@ section {
     background-color: #FBA919;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    background-image: url(../img/cd-bg-pattern.jpg);
 }
 #gallery img {
     width: 100%;
@@ -116,7 +113,7 @@ section {
 }
 #contact {
     background-color: #FFFFFF;
-    padding-top: 1rem;
+    padding-top: 2rem;
     padding-left: 2rem;
     padding-right: 2rem;
 }
