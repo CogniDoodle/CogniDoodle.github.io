@@ -81,23 +81,23 @@ img.kids {
     height: 96%;
 }
 .category1 {
-    background-color: #EC008C;
+    background-color: #7FA663
 }
 .category2 {
-	background-color: #FBA919;
+	background-color: #FFAA19;
 }
 .category3 {
-    background-color: #F26524;
+    background-color: #FF6400;
 }
 
 #what-is {
-    background-color: #8EDF43;
+    background-color: #A66B49;
     padding-left: 0px;
     padding-right: 0px;
 }
 
 #gallery {
-    background-color: #FBA919;
+    background-color: #FFAA19;
     padding-top: 1rem;
     padding-bottom: 1rem;
     background-image: url(../img/cd-bg-pattern.jpg);
@@ -150,7 +150,7 @@ img.kids {
 .page-btn {
     display: inline-block;
     padding: .8em 1.2em;
-    background-color: rgba(236,0,140,0.80);
+    background-color: rgba(127,166,99,0.80);
     margin-top: 1em;
     border-radius: 20em;
     -webkit-backface-visibility: hidden;
@@ -164,7 +164,7 @@ img.kids {
     margin-bottom: 1em;
 }
 .no-touch .page-btn:hover {
-    background-color: #EC008C;
+    background-color: #7FA663;
     text-decoration: none;
     padding: .7em 1.0em;
 }
@@ -233,9 +233,6 @@ p {
 }
 
 
-
-}
-
 .what-is-col {
     text-align: center;
 
@@ -251,7 +248,7 @@ p {
     padding-right: 2rem;
 }
 #people-behind {
-    background-color: #FBA919;
+    background-color: #F2E0D0;
     padding-top: 1rem;
     padding-bottom: 1rem;
 }

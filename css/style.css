@@ -22,7 +22,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: ;
     color: rgba(0,0,0,1.00);
 }
 img {
@@ -69,8 +69,9 @@ Navigation
     width: 100%;
     height: 55px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-    background-color: #D9F1FD;
+    background-color: #F2E0D0;
     z-index: 3;
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -272,7 +273,7 @@ Intro
 .cd-btn {
     display: inline-block;
     padding: .8em 1.2em;
-    background-color: rgba(236,0,140,0.80);
+    background-color: rgba(127,166,99,0.80);
     margin-top: 1em;
     border-radius: 20em;
     -webkit-backface-visibility: hidden;
@@ -284,7 +285,7 @@ Intro
     z-index: 5;
 }
 .no-touch .cd-btn:hover {
-    background-color: #EC008C;
+    background-color: #7FA663;
     text-decoration: none;
     padding: .7em 1.0em;
 }
@@ -327,7 +328,7 @@ Secondary Fixed Navigation
     right: 5%;
     bottom: 20px;
     border-radius: 0.25em;
-    background-color: rgba(217,241,253,0.96);
+    background-color: rgba(47,72,88,0.96);
     visibility: hidden;
     z-index: -1;
     -webkit-backface-visibility: hidden;
@@ -362,7 +363,7 @@ Secondary Fixed Navigation
     display: block;
     padding: 1.6em;
     border-bottom: 1px solid #092645;
-    color: #2F4858;
+    color: rgba(240, 238, 225, 0.3);
 }
 .cd-secondary-nav li:last-child a {
     border-bottom: none;
@@ -372,7 +373,7 @@ Secondary Fixed Navigation
 .cd-secondary-nav {
     z-index: 1;
     height: 100px;
-    background-color: rgba(217,241,253,0.96);
+    background-color: rgba(47,72,88,0.96);
     -webkit-transition: height 0.3s;
     -moz-transition: height 0.3s;
     transition: height 0.3s;
@@ -413,8 +414,7 @@ Secondary Fixed Navigation
     font-size: 13px;
     font-size: 1rem;
     font-weight: 700;
-    color: #EC008C;
-    text-shadow: 1px 1px 1px #AAAAAA;
+    color: rgba(240, 238, 225, 0.3);
 }
 .cd-secondary-nav li a span {
     position: absolute;
@@ -435,7 +435,7 @@ Secondary Fixed Navigation
     transition: opacity 0.2s;
 }
 .cd-secondary-nav li a:hover b, .cd-secondary-nav li a.active b {
-    color: #2F4858;
+    color: #F2E0D0;
 }
 .cd-secondary-nav li:nth-child(1) a span {
     background-position: 0 0;
