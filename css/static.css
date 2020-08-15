@@ -121,7 +121,8 @@ img.kids {
 .btn-categories {
     border: thin solid #000;
     display: inline-block;
-    font-weight: 900;
+    font-weight: 700;
+	color: #030D18;
     text-align: center;
     white-space: nowrap;
     vertical-align: middle;
