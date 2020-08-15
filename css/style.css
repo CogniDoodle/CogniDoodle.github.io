@@ -589,8 +589,7 @@ Secondary Fixed Navigation
 
 @media only screen and (min-width:992px){
 #what-is .row {
-    padding-left: 2rem;
-    padding-right: 2rem;
+
 }
 .what-is-image {
     height: 400px;

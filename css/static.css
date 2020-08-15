@@ -36,8 +36,7 @@ h1, h2, h3, h4 , h5{
 
 
 .row.row-no-gutter .inner {
-    padding-left: 10px;
-    padding-right: 10px;
+
 }
 .nopadding {
     padding-top: 0px !important;
@@ -88,13 +87,11 @@ img.kids {
 	background-color: #FBA919;
 }
 .category3 {
-	background-color: #F26524;
+    background-color: #F26524;
 }
 
 #what-is {
     background-color: #8EDF43;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
     padding-left: 0px;
     padding-right: 0px;
 }
@@ -244,7 +241,7 @@ p {
 
 }
 .what-is-col-text {
-    margin-top: 3em;
+
 }
 
 #why-we-do-it {
