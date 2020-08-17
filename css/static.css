@@ -25,18 +25,13 @@ h1, h2, h3, h4 , h5{
     padding-right: 0px;
     margin-left: 0px;
     margin-right: 0px;
+    background-image: "img/children-drawing-chalk.jpg";
 }
 .has-inner .row.row-no-gutter {
     margin-left: -10px;
     margin-right: -10px;
 }
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
+
 #our-values .row.row-no-gutter {
     height: auto;
 }
@@ -72,7 +67,7 @@ h1, h2, h3, h4 , h5{
 }
 #services img {
     max-height: 100px;
-    margin-bottom: 2rem;
+    margin-bottom: .5rem;
     margin-left: 0px;
     margin-right: 0px;
 }
@@ -200,8 +195,8 @@ img.kids {
     text-decoration: none;
 }
 footer {
-    background-color: #D9F1FD;
-    margin-top: 1rem;
+    background-color: #F2E0D0;
+    margin-top: 0rem;
     padding-top: 4rem;
     color: #030D18;
     padding-bottom: 0px;
